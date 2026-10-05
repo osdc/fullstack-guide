@@ -5,7 +5,7 @@ title: JavaScript Core Basics
 description: "Your first JavaScript file: syntax, variables, if/else and loops."
 ---
 
-Welcome to JavaScript! 🎉
+Welcome to JavaScript! 
 
 HTML builds the page, CSS styles it, and **JavaScript makes it do things**: react to clicks, check what you typed, load new data without refreshing.
 
@@ -64,10 +64,10 @@ This means: make a box called `age` and put `20` in it.
 
 ```javascript
 let score = 0;          // can change later
-score = 10;             // ✅ fine
+score = 10;             // fine
 
 const birthYear = 2005; // can never change
-birthYear = 2006;       // ❌ Error!
+birthYear = 2006;       // Error!
 ```
 
 | Keyword | Use it when |
