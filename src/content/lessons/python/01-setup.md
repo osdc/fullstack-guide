@@ -22,7 +22,9 @@ You can write Python in VS Code, Notepad, or any other text editor. The editor d
 - [Troubleshooting](#troubleshooting)
 
 # Windows
-Follow this article by GeeksForGeeks: https://www.geeksforgeeks.org/python/how-to-install-python-on-mac
+Follow this article by GeeksForGeeks: 
+
+### https://www.geeksforgeeks.org/python/how-to-install-python-on-windows/
 
 ## Run a First Program
 
@@ -70,7 +72,9 @@ To edit PATH:
 
 
 # macOS
-Follow this article by GeeksForGeeks: https://www.geeksforgeeks.org/python/how-to-install-python-on-mac
+Follow this article by GeeksForGeeks: 
+
+### https://www.geeksforgeeks.org/python/how-to-install-python-on-mac
 
 
 ## Run a First Program
