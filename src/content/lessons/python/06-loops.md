@@ -1,7 +1,7 @@
 ---
 course: python
 slug: loops
-title: Python Loops
+title: Loops
 description: "Learn for loops, while loops, range, break, continue, and repetition in Python."
 ---
 

@@ -1,7 +1,7 @@
 ---
 course: python
 slug: input
-title: Python Input
+title: Input
 description: "Learn how to accept user input, convert values, and build interactive Python programs."
 ---
 

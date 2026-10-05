@@ -1,7 +1,7 @@
 ---
 course: python
 slug: python-libraries
-title: Python Libraries
+title: Libraries
 description: "Learn how to import and use Python libraries, modules, and packages in your programs."
 ---
 

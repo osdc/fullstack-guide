@@ -1,7 +1,7 @@
 ---
 course: python
 slug: oops
-title: Python Object Oriented Programming
+title: Object Oriented Programming
 description: "Learn classes, objects, methods, constructors, inheritance, encapsulation, and object-oriented programming in Python."
 ---
 

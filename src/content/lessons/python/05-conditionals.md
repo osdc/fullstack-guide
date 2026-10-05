@@ -1,7 +1,7 @@
 ---
 course: python
 slug: conditionals
-title: Python If Else and Menu Driven Programs
+title: If Else and Menu Driven Programs
 description: "Learn conditions, comparisons, if/elif/else statements, and how to build menu-driven programs."
 ---
 

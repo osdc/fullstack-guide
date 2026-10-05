@@ -9,8 +9,6 @@ A quick reference for the Python, API, FastAPI, and frontend concepts covered in
 
 Use the linked modules for complete explanations and runnable examples.
 
-# Python Basics
-
 ## Running Python
 
 ```bash

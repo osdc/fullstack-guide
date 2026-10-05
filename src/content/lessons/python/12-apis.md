@@ -1,7 +1,7 @@
 ---
 course: python
 slug: apis
-title: Python APIs
+title: APIs
 description: "Learn how APIs work, make HTTP requests, handle JSON data, and interact with external services using Python."
 ---
 

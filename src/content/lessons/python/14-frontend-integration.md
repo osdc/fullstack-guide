@@ -1,7 +1,7 @@
 ---
 course: python
 slug: frontend-integration
-title: Python Frontend Integration
+title: Frontend Integration
 description: "Learn how to connect a frontend application with a Python backend and FastAPI."
 ---
 

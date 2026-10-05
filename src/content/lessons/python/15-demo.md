@@ -1,7 +1,7 @@
 ---
 course: python
 slug: demo-project
-title: Python Demo Project
+title: Demo Project
 description: "Build a practical Python project that combines core programming concepts, libraries, APIs, and backend development."
 ---
 

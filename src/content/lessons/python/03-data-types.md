@@ -1,7 +1,7 @@
 ---
 course: python
-slug: python-data-types
-title: Python Data Types
+slug: data-types
+title: Data Types
 description: "Learn Python's basic data types, type conversion, and how values are represented in programs."
 ---
 

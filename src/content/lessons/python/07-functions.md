@@ -1,7 +1,7 @@
 ---
 course: python
 slug: functions
-title: Python Functions
+title: Functions
 description: "Learn how to create reusable functions with parameters, return values, and local scope."
 ---
 

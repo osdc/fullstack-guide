@@ -1,7 +1,7 @@
 ---
 course: python
 slug: file-handling
-title: Python File Handling
+title: File Handling
 description: "Learn how to create, read, write, append, and manage files using Python."
 ---
 
