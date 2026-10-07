@@ -276,3 +276,13 @@ form.addEventListener("submit", function (event) {
 2. Make an input and a button. When clicked, show what the user typed in a `<p>` below.
 3. Make an input and a `<p>`. Use the `"input"` event so the `<p>` shows what the user is typing **live**, letter by letter.
 4. Make an `<ul>` with 3 `<li>` items. Use `querySelectorAll` and `forEach` to turn every item's text to uppercase.
+
+```html live
+<!doctype html>
+<html>
+<body>
+  <h1 id="title">Hello</h1>
+  <p class="note">I am a paragraph</p>
+</body>
+</html>
+```
